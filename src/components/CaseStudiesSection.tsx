@@ -33,7 +33,7 @@ const CaseStudiesSection = () => {
         engagement: "+180%"
       },
       isPlaceholder: false,
-      projectUrl: "https://g21-generation.com"
+      projectUrl: "https://www.g21-generation.com"
     },
     {
       id: 3,
