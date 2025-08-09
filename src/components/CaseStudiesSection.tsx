@@ -26,14 +26,14 @@ const CaseStudiesSection = () => {
       title: "G21",
       category: "E-Commerce", 
       description: "Nous avons 21 ans. Deux jeunes, deux esprits, une seule vision. Créer plus qu'une marque. Créer un mouvement. G21 - Génération 21",
-      image: "/lovable-uploads/73ae8a64-62ce-4a3b-8b1d-cccc83d8af4c.png",
+      image: "/lovable-uploads/ad128a30-68e3-4d12-a86d-ccb0df07edf1.png",
       metrics: {
         conversion: "+150%",
         traffic: "+200%", 
         engagement: "+180%"
       },
       isPlaceholder: false,
-      projectUrl: "https://www.g21-generation.com"
+      projectUrl: "https://preview--g21-creative-landing-pad-23.lovable.app/"
     },
     {
       id: 3,
