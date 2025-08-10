@@ -54,7 +54,7 @@ const CaseStudiesSection = () => {
       title: "Ristorante Galleria",
       category: "E-Commerce",
       description: "Nel cuore di Milano dal 1968. Un monumento vivo con un'atmosfera unica. Incastonato fra il Duomo e il Teatro alla Scala nella lussuosa cornice della Galleria Vittorio Emanuele II.",
-      image: "/lovable-uploads/bd0c175a-fbe5-4a87-ae76-fdd570faa969.png",
+      image: "/lovable-uploads/41c0059a-30f5-4987-b15b-155dd7bc85ed.png",
       metrics: {
         conversion: "+75%",
         traffic: "+90%",
