@@ -26,7 +26,7 @@ const CaseStudiesSection = () => {
       title: "G21",
       category: "E-Commerce", 
       description: "People's Dreams Never End. Express your passion through premium streetwear inspired by anime culture. Where style meets storytelling, and dreams become reality.",
-      image: "/lovable-uploads/e9e426a1-1359-40b2-b509-ab6bef69374e.png",
+      image: "/lovable-uploads/01d37199-1102-4510-873e-9f0a4201b1ed.png",
       metrics: {
         conversion: "+150%",
         traffic: "+200%", 
