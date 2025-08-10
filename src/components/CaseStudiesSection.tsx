@@ -53,15 +53,15 @@ const CaseStudiesSection = () => {
       id: 4,
       title: "Ristorante Galleria",
       category: "E-Commerce",
-      description: "Nel cuore di Milano dal 1968. Activer Windows. Incastonato fra il Duomo e il Teatro. Accedez aux paramètres pour activer Windows alla Scala nella lussuosa cornice della Galleria Vittorio Emanuele II questo",
-      image: "/lovable-uploads/b36f0f06-2bb7-4625-a2d3-395c31403769.png",
+      description: "Nel cuore di Milano dal 1968. Un monumento vivo con un'atmosfera unica. Incastonato fra il Duomo e il Teatro alla Scala nella lussuosa cornice della Galleria Vittorio Emanuele II.",
+      image: "/lovable-uploads/bd0c175a-fbe5-4a87-ae76-fdd570faa969.png",
       metrics: {
         conversion: "+75%",
         traffic: "+90%",
         engagement: "+110%"
       },
       isPlaceholder: false,
-      projectUrl: "https://ristorante-galleria.com"
+      projectUrl: "https://stupendous-raindrop-360f5e.netlify.app/"
     }
   ];
 
