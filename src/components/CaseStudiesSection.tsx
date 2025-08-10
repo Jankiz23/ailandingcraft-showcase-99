@@ -25,8 +25,8 @@ const CaseStudiesSection = () => {
       id: 2,
       title: "G21",
       category: "E-Commerce", 
-      description: "Nous avons 21 ans. Deux jeunes, deux esprits, une seule vision. Créer plus qu'une marque. Créer un mouvement. G21 - Génération 21",
-      image: "/lovable-uploads/ad128a30-68e3-4d12-a86d-ccb0df07edf1.png",
+      description: "People's Dreams Never End. Express your passion through premium streetwear inspired by anime culture. Where style meets storytelling, and dreams become reality.",
+      image: "/lovable-uploads/0a4b88f2-9747-4182-b5ea-ddaed75190c0.png",
       metrics: {
         conversion: "+150%",
         traffic: "+200%", 
