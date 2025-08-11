@@ -25,9 +25,9 @@ const AboutSection = () => {
               </div>
               <div className="relative">
                 <img 
-                  src="/lovable-uploads/6b4c02e4-48b3-43ae-9a79-6d62049b5a15.png" 
+                  src="/lovable-uploads/f66f0d28-9d01-41da-9f32-3d53b7a9a280.png" 
                   alt="CEO of The One PageLabs Agency" 
-                  className="w-full h-[400px] object-cover rounded-lg shadow-xl"
+                  className="w-full h-[500px] object-cover rounded-lg shadow-xl"
                 />
               </div>
             </div>
@@ -35,18 +35,18 @@ const AboutSection = () => {
             {/* Content */}
             <div className="space-y-8">
               <Card className="p-8 bg-card-gradient border-border">
-                <h3 className="text-3xl font-bold text-foreground mb-6">Meet Our Founder</h3>
+                <h3 className="text-3xl font-bold text-foreground mb-6">Meet Our Founders</h3>
                 <p className="text-lg text-muted-foreground mb-6">
-                  Welcome to The One PageLabs Agency. I'm passionate about creating digital experiences 
+                  Welcome to The One PageLabs Agency. We're passionate about creating digital experiences 
                   that not only look stunning but drive real business results.
                 </p>
                 <p className="text-lg text-muted-foreground mb-6">
-                  With years of experience in web design and development, I founded this agency with 
+                  With years of experience in web design and development, we founded this agency with 
                   a simple mission: to help businesses transform their online presence through 
-                  high-converting landing pages and modern web solutions.
+                  high-converting landing pages and modern web solutions powered by creativity and experience.
                 </p>
                 <p className="text-lg text-muted-foreground">
-                  Every project is a partnership. I work closely with each client to understand 
+                  Every project is a partnership. We work closely with each client to understand 
                   their vision and bring it to life with cutting-edge technology and creative design.
                 </p>
               </Card>

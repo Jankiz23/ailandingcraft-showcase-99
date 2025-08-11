@@ -32,7 +32,7 @@ const HeroSection = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-            We craft stunning, high-converting landing pages powered by AI technology. 
+            We craft stunning, high-converting landing pages powered by creativity and experience. 
             Transform your ideas into digital experiences that captivate and convert.
           </p>
           

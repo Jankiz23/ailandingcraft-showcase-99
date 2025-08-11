@@ -85,7 +85,13 @@ const ContactSection = () => {
                 />
               </div>
               
-              <Button type="submit" variant="hero" size="lg" className="w-full">
+              <Button 
+                type="button" 
+                variant="hero" 
+                size="lg" 
+                className="w-full"
+                onClick={() => window.location.href = 'mailto:nassim.lafif@theonepagelabs.com?subject=Project Inquiry&body=Hello, I would like to discuss a project with you.'}
+              >
                 Send Message
                 <Send className="w-5 h-5 ml-2" />
               </Button>
@@ -101,8 +107,8 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-foreground mb-2">Email Us</h4>
-                  <p className="text-muted-foreground">hello@theonepageabs.com</p>
-                  <p className="text-muted-foreground">projects@theonepageabs.com</p>
+                  <p className="text-muted-foreground">nassim.lafif@theonepagelabs.com</p>
+                  <p className="text-muted-foreground">support@theonepagelabs.com</p>
                 </div>
               </div>
             </Card>
@@ -114,8 +120,8 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-foreground mb-2">Call Us</h4>
-                  <p className="text-muted-foreground">+1 (555) 123-4567</p>
-                  <p className="text-muted-foreground">Available 9 AM - 6 PM EST</p>
+                  <p className="text-muted-foreground">+216 55662951</p>
+                  <p className="text-muted-foreground">+216 29097051</p>
                 </div>
               </div>
             </Card>
@@ -127,8 +133,7 @@ const ContactSection = () => {
                 </div>
                 <div>
                   <h4 className="text-lg font-semibold text-foreground mb-2">Visit Us</h4>
-                  <p className="text-muted-foreground">123 Innovation Street</p>
-                  <p className="text-muted-foreground">San Francisco, CA 94107</p>
+                  <p className="text-muted-foreground">Indonesia - Bali</p>
                 </div>
               </div>
             </Card>
@@ -140,7 +145,11 @@ const ContactSection = () => {
               <p className="text-muted-foreground mb-6">
                 Book a free consultation call and let's discuss your project.
               </p>
-              <Button variant="gradient" size="lg">
+              <Button 
+                variant="gradient" 
+                size="lg"
+                onClick={() => window.open('https://calendly.com/nassim-lafif', '_blank')}
+              >
                 Schedule a Call
               </Button>
             </div>

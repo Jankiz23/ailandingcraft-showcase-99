@@ -16,7 +16,7 @@ const Footer = () => {
               The One PageLabs Agency
             </div>
             <p className="text-muted-foreground mb-6 max-w-md">
-              Crafting the future of digital experiences with AI-powered landing pages 
+              Crafting the future of digital experiences with creativity and experience-powered landing pages 
               that convert visitors into customers.
             </p>
             <div className="flex space-x-4">
@@ -90,7 +90,7 @@ const Footer = () => {
         
         <div className="border-t border-border mt-12 pt-8 text-center">
           <p className="text-muted-foreground">
-            © 2024 The One PageLabs Agency. All rights reserved.
+            © 2025 The One PageLabs Agency. All rights reserved.
           </p>
         </div>
       </div>
