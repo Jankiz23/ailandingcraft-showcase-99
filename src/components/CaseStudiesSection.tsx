@@ -26,7 +26,7 @@ const CaseStudiesSection = () => {
       title: "G21",
       category: "E-Commerce", 
       description: "People's Dreams Never End. Express your passion through premium streetwear inspired by anime culture. Where style meets storytelling, and dreams become reality.",
-      image: "/lovable-uploads/fb304d0b-f653-4e5b-9916-f8b40b869014.png",
+      image: "/lovable-uploads/ff41eea3-a56a-42c8-aa3b-fe868aa75e9e.png",
       metrics: {
         conversion: "+150%",
         traffic: "+200%", 
@@ -65,20 +65,12 @@ const CaseStudiesSection = () => {
     }
   ];
 
-  // Load projects from localStorage or use default projects
-  const getInitialProjects = () => {
-    const saved = localStorage.getItem('caseStudiesProjects');
-    if (saved) {
-      try {
-        return JSON.parse(saved);
-      } catch {
-        return defaultProjects;
-      }
-    }
-    return defaultProjects;
-  };
+  // Clear localStorage and use fresh default projects
+  useEffect(() => {
+    localStorage.removeItem('caseStudiesProjects');
+  }, []);
 
-  const [projects, setProjects] = useState(getInitialProjects);
+  const [projects, setProjects] = useState(defaultProjects);
 
   // Save projects to localStorage whenever projects change
   useEffect(() => {
