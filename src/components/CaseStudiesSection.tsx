@@ -36,20 +36,6 @@ const CaseStudiesSection = () => {
       projectUrl: "https://preview--g21-creative-landing-pad-23.lovable.app/"
     },
     {
-      id: 3,
-      title: "Juventaya",
-      category: "E-Commerce",
-      description: "People's Dreams Never End. Express your passion through premium streetwear inspired by anime culture. Where style meets storytelling, and dreams become reality.",
-      image: "/lovable-uploads/e4b7c7ac-e637-4d45-a5f5-7db2c17567f4.png",
-      metrics: {
-        conversion: "+200%",
-        traffic: "+300%",
-        engagement: "+250%"
-      },
-      isPlaceholder: false,
-      projectUrl: "https://preview--g21-creative-landing-pad-23.lovable.app/"
-    },
-    {
       id: 4,
       title: "Ristorante Galleria",
       category: "E-Commerce",
