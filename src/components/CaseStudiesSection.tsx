@@ -113,8 +113,7 @@ const CaseStudiesSection = () => {
             </Button>
           </div>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Discover how we've helped businesses transform their digital presence with 
-            AI-powered landing pages that deliver exceptional results.
+            See how we've helped businesses elevate their digital presence through landing pages driven by creativity and experience, delivering outstanding results.
           </p>
         </div>
 

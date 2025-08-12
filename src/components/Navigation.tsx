@@ -7,15 +7,17 @@ const Navigation = () => {
   };
 
   return (
-    <nav className="fixed top-0 w-full z-50 bg-background/90 backdrop-blur-md border-b border-border">
+    < nav className="fixed top-0 w-full z-50 bg-background/90 backdrop-blur-md border-b border-border">
       <div className="container mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
-            <img 
-              src="/lovable-uploads/160da185-4b84-47d8-9ea4-f72dbdec4da8.png" 
-              alt="The One Page Labs" 
-              className="h-8 w-auto"
-            />
+       <img  
+        id="i"
+        src="/lovable-uploads/160da185-4b84-47d8-9ea4-f72dbdec4da8.png" 
+        alt="The One Page Labs" 
+        style={{ width: '150px', height: '100px' , opacity:10 }}
+        />
+
           </div>
           
           <div className="hidden md:flex space-x-8">
@@ -44,10 +46,6 @@ const Navigation = () => {
               Contact
             </button>
           </div>
-          
-          <Button variant="hero" size="sm">
-            Get Started
-          </Button>
         </div>
       </div>
     </nav>
