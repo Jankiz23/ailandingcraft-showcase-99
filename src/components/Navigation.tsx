@@ -15,7 +15,7 @@ const Navigation = () => {
         id="i"
         src="/lovable-uploads/160da185-4b84-47d8-9ea4-f72dbdec4da8.png" 
         alt="The One Page Labs" 
-        style={{ width: '150px', height: '100px' , opacity:10 }}
+        style={{ width: '120px', height: '100px', borderRadius:"30px" }}
         />
 
           </div>
