@@ -3,6 +3,8 @@ import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ExternalLink, Plus, Edit } from "lucide-react";
 import ProjectImportModal from "@/components/ProjectImportModal";
+import image2 from "../components/image.png";
+
 
 const CaseStudiesSection = () => {
   // Default projects that always appear
@@ -12,7 +14,7 @@ const CaseStudiesSection = () => {
       title: "Il Tartufo",
       category: "E-Commerce",
       description: "Découvrez la véritable cuisine italienne avec nos truffes fraîches et recettes traditionnelles",
-      image: "/public/lovable-uploads/image.png",
+      image: "/lovable-uploads/image.png",
       metrics: {
         conversion: "+85%",
         traffic: "+120%",
@@ -26,7 +28,7 @@ const CaseStudiesSection = () => {
       title: "The Ship ",
       category: "E-Commerce", 
       description: "Experience exceptional dining and entertainment aboard Kansas City's most iconic venue since 1975.",
-      image: "/src/components/image.png",
+      image: image2,
       metrics: {
         conversion: "+150%",
         traffic: "+200%", 
