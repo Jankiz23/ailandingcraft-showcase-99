@@ -9,31 +9,31 @@ const CaseStudiesSection = () => {
   const defaultProjects = [
     {
       id: 1,
-      title: "Agency Immobilier",
+      title: "Il Tartufo",
       category: "E-Commerce",
-      description: "Bienvenue chez Immobilier Hammamet, votre agence spécialisée dans la vente, l'achat et la location de biens immobiliers à Hammamet",
-      image: "/lovable-uploads/ed3e343b-73a5-47b7-b6c2-d068ac079eae.png",
+      description: "Découvrez la véritable cuisine italienne avec nos truffes fraîches et recettes traditionnelles",
+      image: "/public/lovable-uploads/image.png",
       metrics: {
         conversion: "+85%",
         traffic: "+120%",
         engagement: "+95%"
       },
       isPlaceholder: false,
-      projectUrl: "https://dancing-semifreddo-3e71e3.netlify.app/"
+      projectUrl: "https://cheery-cobbler-95d7a7.netlify.app//"
     },
     {
       id: 2,
-      title: "G21",
+      title: "The Ship ",
       category: "E-Commerce", 
-      description: "People's Dreams Never End. Express your passion through premium streetwear inspired by anime culture. Where style meets storytelling, and dreams become reality.",
-      image: "/lovable-uploads/ff41eea3-a56a-42c8-aa3b-fe868aa75e9e.png",
+      description: "Experience exceptional dining and entertainment aboard Kansas City's most iconic venue since 1975.",
+      image: "/src/components/image.png",
       metrics: {
         conversion: "+150%",
         traffic: "+200%", 
         engagement: "+180%"
       },
       isPlaceholder: false,
-      projectUrl: "https://preview--g21-creative-landing-pad-23.lovable.app/"
+      projectUrl: "https://kaleidoscopic-frangipane-5e5709.netlify.app/?fbclid=IwY2xjawMK0AtleHRuA2FlbQIxMABicmlkETFYbnhBTlVkdndYYmc2QThCAR7j5QojdS7zWydPX0at4Q3UlX9JFtlGK0Xt2VXfsMJ3MB0paZ01qCCL91t_-Q_aem_DzHsWxX4F0e37NO4WniAjA/"
     },
     {
       id: 4,
